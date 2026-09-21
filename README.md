@@ -28,6 +28,7 @@
 
 ## Семинары
 1. Введение в библиотеку PyTorch. Автоматическое дифференцирование: [ноутбук](https://github.com/xiyori/intro-to-dl-hse/blob/2025-2026/seminars/242/seminar-01-intro.ipynb)
+2. Оптимизация нейронных сетей (SGD/Adam/AdamW, SAM, SWA): [ноутбук](seminars/242/seminar-03-optimization.ipynb)
 
 ## Маленькие домашние задания
 
@@ -38,4 +39,3 @@
 Теоретические ДЗ не сдаются и предлагаются студентам для самостоятельного решения и ознакомления
 
 1. Полносвязные нейронные сети: [ссылка](https://github.com/xiyori/intro-to-dl-hse/blob/2026-2027/homeworks-theory/thw-01-mlp.pdf)
-
