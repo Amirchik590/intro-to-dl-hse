@@ -27,7 +27,8 @@
 3. Оптимизация нейронных сетей: [доска](https://github.com/xiyori/intro-to-dl-hse/blob/2026-2027/lecture-notes/notes-03-optimization.pdf)
 
 ## Семинары
-1. Введение в библиотеку PyTorch. Автоматическое дифференцирование: [ноутбук](https://github.com/xiyori/intro-to-dl-hse/blob/2025-2026/seminars/242/seminar-01-intro.ipynb)
+0. Введение в библиотеку PyTorch. Автоматическое дифференцирование: [ноутбук](https://github.com/xiyori/intro-to-dl-hse/blob/2026-2027/seminars/242/seminar-01-intro.ipynb)
+1. Полносвязные нейронные сети. Общая схема пайплайна обучения на PyTorch: [ноутбук](https://github.com/xiyori/intro-to-dl-hse/blob/2026-2027/seminars/232/seminar-02-backprop.ipynb)
 2. Оптимизация нейронных сетей (SGD/Adam/AdamW, SAM, SWA): [ноутбук](seminars/242/seminar-03-optimization.ipynb)
 
 ## Маленькие домашние задания
